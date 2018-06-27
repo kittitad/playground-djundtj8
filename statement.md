@@ -9,7 +9,7 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-String message = "stina!";
+String message = "stina i love you!";
 System.out.println(message);
 
 //{ autofold
